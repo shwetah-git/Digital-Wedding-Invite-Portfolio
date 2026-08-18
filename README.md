@@ -276,14 +276,14 @@ Any environment-specific configuration should be provided through environment va
 ---
 
 ## Screenshots
-Wedding-Invite-Landing-screen.png
-Cover-page-bride&groom-screen.png
-Wedding-details-screen.png
-Wedding-venue-details-screen.png
-Scratch-the-wedding-date-screen.png
-Reveal-the-wedding-date-screen.png
-Wedding-ceremony-details-screen.png
-RSVP-form-screen.png
+* Wedding-Invite-Landing-screen.png
+* Cover-page-bride&groom-screen.png
+* Wedding-details-screen.png
+* Wedding-venue-details-screen.png
+* Scratch-the-wedding-date-screen.png
+* Reveal-the-wedding-date-screen.png
+* Wedding-ceremony-details-screen.png
+* RSVP-form-screen.png
 
 ---
 
