@@ -277,25 +277,25 @@ Any environment-specific configuration should be provided through environment va
 
 ## Screenshots
 ### Invitation landing screen
-![Wedding Invitation landing screen](screenshots/Wedding-Invite-Landing-screen.png)
+![Wedding Invitation landing screen](screenshots/Wedding-Invite-Landing-screen.PNG)
 
 ### Cover page bride & groom screen
-![Cover page bride & groom screen](screenshots/Cover-page-bride&groom-screen.png)
+![Cover page bride & groom screen](screenshots/Cover-page-bride&groom-screen.PNG)
 
 ### Wedding details screen
-![Wedding details screen](screenshots/Wedding-details-screen.png)
+![Wedding details screen](screenshots/Wedding-details-screen.PNG)
 
 ### Scratch the wedding date screen
-![Scratch the wedding date screen](screenshots/Scratch-the-wedding-date-screen.png)
+![Scratch the wedding date screen](screenshots/Scratch-the-wedding-date-screen.PNG)
 
 ### Reveal the wedding date screen
-![Reveal the wedding date screen](screenshots/Reveal-the-wedding-date-screen.png)
+![Reveal the wedding date screen](screenshots/Reveal-the-wedding-date-screen.PNG)
 
 ### Wedding ceremony details screen
-![Wedding ceremony details screen](screenshots/Wedding-ceremony-details-screen.png)
+![Wedding ceremony details screen](screenshots/Wedding-ceremony-details-screen.PNG)
 
 ### RSVP form screen
-![RSVP form screen](screenshots/RSVP-form-screen.png)
+![RSVP form screen](screenshots/RSVP-form-screen.PNG)
 
 ---
 
