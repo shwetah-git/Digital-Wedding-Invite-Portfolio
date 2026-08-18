@@ -290,20 +290,6 @@ Future enhancements could include:
 
 ---
 
-## Screenshots
-
-Screenshots of the application can be added here to provide a quick visual overview of the project.
-
-Suggested screenshots:
-
-* Invitation landing screen
-* Invitation opening interaction
-* Wedding/event details
-* RSVP form
-* Mobile responsive view
-
----
-
 ## License
 
 This project is intended for personal/event use.
