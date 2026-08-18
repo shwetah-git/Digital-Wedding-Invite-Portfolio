@@ -276,15 +276,26 @@ Any environment-specific configuration should be provided through environment va
 ---
 
 ## Screenshots
-* Wedding-Invite-Landing-screen.png
-* Cover-page-bride&groom-screen.png
-* Wedding-details-screen.png
-* Wedding-venue-details-screen.png
-* Scratch-the-wedding-date-screen.png
-* Reveal-the-wedding-date-screen.png
-* Wedding-ceremony-details-screen.png
-* RSVP-form-screen.png
+### Invitation landing screen
+![Wedding Invitation landing screen](screenshots/Wedding-Invite-Landing-screen.png)
 
+### Cover page bride & groom screen
+![Cover page bride & groom screen](screenshots/Cover-page-bride&groom-screen.png)
+
+### Wedding details screen
+![Wedding details screen](screenshots/Wedding-details-screen.png)
+
+### Scratch the wedding date screen
+![Scratch the wedding date screen](screenshots/Scratch-the-wedding-date-screen.png)
+
+### Reveal the wedding date screen
+![Reveal the wedding date screen](screenshots/Reveal-the-wedding-date-screen.png)
+
+### Wedding ceremony details screen
+![Wedding ceremony details screen](screenshots/Wedding-ceremony-details-screen.png)
+
+### RSVP form screen
+![RSVP form screen](screenshots/RSVP-form-screen.png)
 ---
 
 ## License
