@@ -11,9 +11,6 @@ The application provides guests with an interactive invitation experience and al
 ### Invitation landing screen
 ![Wedding Invitation landing screen](screenshots/Wedding-Invite-Landing-screen.PNG)
 
-### Cover page bride & groom screen
-![Cover page bride & groom screen](screenshots/Cover-page-bride&groom-screen.PNG)
-
 ### Wedding details screen
 ![Wedding details screen](screenshots/Wedding-details-screen.PNG)
 
