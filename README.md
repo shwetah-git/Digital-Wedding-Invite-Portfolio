@@ -275,18 +275,15 @@ Any environment-specific configuration should be provided through environment va
 
 ---
 
-## Potential Improvements
-
-Future enhancements could include:
-
-* Dedicated backend API
-* Relational database for RSVP persistence
-* Authentication for an RSVP management dashboard
-* Automated RSVP confirmation emails
-* Administrative dashboard for managing guest responses
-* Automated deployment pipeline
-* Application monitoring and logging
-* Server-side validation and enhanced API security
+## Screenshots
+Wedding-Invite-Landing-screen.png
+Cover-page-bride&groom-screen.png
+Wedding-details-screen.png
+Wedding-venue-details-screen.png
+Scratch-the-wedding-date-screen.png
+Reveal-the-wedding-date-screen.png
+Wedding-ceremony-details-screen.png
+RSVP-form-screen.png
 
 ---
 
