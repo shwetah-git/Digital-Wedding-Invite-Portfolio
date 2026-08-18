@@ -296,6 +296,7 @@ Any environment-specific configuration should be provided through environment va
 
 ### RSVP form screen
 ![RSVP form screen](screenshots/RSVP-form-screen.png)
+
 ---
 
 ## License
