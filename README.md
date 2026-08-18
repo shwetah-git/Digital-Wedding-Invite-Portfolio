@@ -6,6 +6,31 @@ The application provides guests with an interactive invitation experience and al
 **[View the Live Wedding Invitation](https://ourweddinginvitation.shwetsh.xyz/)**
 
 ---
+
+## Screenshots
+### Invitation landing screen
+![Wedding Invitation landing screen](screenshots/Wedding-Invite-Landing-screen.PNG)
+
+### Cover page bride & groom screen
+![Cover page bride & groom screen](screenshots/Cover-page-bride&groom-screen.PNG)
+
+### Wedding details screen
+![Wedding details screen](screenshots/Wedding-details-screen.PNG)
+
+### Scratch the wedding date screen
+![Scratch the wedding date screen](screenshots/Scratch-the-wedding-date-screen.PNG)
+
+### Reveal the wedding date screen
+![Reveal the wedding date screen](screenshots/Reveal-the-wedding-date-screen.PNG)
+
+### Wedding ceremony details screen
+![Wedding ceremony details screen](screenshots/Wedding-ceremony-details-screen.PNG)
+
+### RSVP form screen
+![RSVP form screen](screenshots/RSVP-form-screen.PNG)
+
+---
+
 ## About the Project
 
 This project is a personalized digital wedding invitation designed to provide guests with an interactive experience rather than a traditional static invitation.
@@ -272,30 +297,6 @@ Any environment-specific configuration should be provided through environment va
 * Deployed the application to Vercel
 * Configured a custom production domain
 * Built and deployed a real-world application rather than a static UI mockup
-
----
-
-## Screenshots
-### Invitation landing screen
-![Wedding Invitation landing screen](screenshots/Wedding-Invite-Landing-screen.PNG)
-
-### Cover page bride & groom screen
-![Cover page bride & groom screen](screenshots/Cover-page-bride&groom-screen.PNG)
-
-### Wedding details screen
-![Wedding details screen](screenshots/Wedding-details-screen.PNG)
-
-### Scratch the wedding date screen
-![Scratch the wedding date screen](screenshots/Scratch-the-wedding-date-screen.PNG)
-
-### Reveal the wedding date screen
-![Reveal the wedding date screen](screenshots/Reveal-the-wedding-date-screen.PNG)
-
-### Wedding ceremony details screen
-![Wedding ceremony details screen](screenshots/Wedding-ceremony-details-screen.PNG)
-
-### RSVP form screen
-![RSVP form screen](screenshots/RSVP-form-screen.PNG)
 
 ---
 
